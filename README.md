@@ -18,6 +18,13 @@ The following steps decribe the logic of this program:
 
 The training corpus used in our project comes from this [Repo](https://github.com/gunthercox/chatterbot-corpus)
 
+### A3 features:
+Implemented a GUI to make it looks good and can talk with human smoothly with at least 30 turns.
+![30_output with new topic](https://user-images.githubusercontent.com/43220166/55991117-54bf1180-5c5e-11e9-8d06-913b427e40fc.PNG)
+
+
+
+
 ### How to use this program:
 * Using python eniroment
 * Make sure training corpus and the program are in the same folder

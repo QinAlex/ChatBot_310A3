@@ -31,6 +31,11 @@ Handling the miss-spelling or spell the wrong words by using traind model.
 
 ![handlemistakes](https://user-images.githubusercontent.com/43220166/55991396-09593300-5c5f-11e9-8c43-9946f85e6ab8.PNG)
 
+Generate 5 random answer for the question that is outside the scope.
+
+![GUI 5randomAnswer](https://user-images.githubusercontent.com/43220166/55991594-74a30500-5c5f-11e9-876f-083d7553c2c3.PNG)
+
+
 
 ### How to use this program:
 * Using python eniroment

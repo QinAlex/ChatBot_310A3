@@ -20,12 +20,16 @@ The training corpus used in our project comes from this [Repo](https://github.co
 
 ### A3 features:
 Implemented a GUI to make it looks good and can talk with human smoothly with at least 30 turns.
+
 ![30_output with new topic](https://user-images.githubusercontent.com/43220166/55991117-54bf1180-5c5e-11e9-8d06-913b427e40fc.PNG)
 
 Add two new topics: cook and books
 
 ![30_output_rest](https://user-images.githubusercontent.com/43220166/55991287-c008e380-5c5e-11e9-8f56-e879fc4b838c.PNG)
 
+Handling the miss-spelling or spell the wrong words by using traind model.
+
+![handlemistakes](https://user-images.githubusercontent.com/43220166/55991396-09593300-5c5f-11e9-8c43-9946f85e6ab8.PNG)
 
 
 ### How to use this program:

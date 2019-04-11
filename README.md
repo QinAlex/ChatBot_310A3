@@ -37,8 +37,7 @@ Generate 5 random answer for the question that is outside the scope.
 
 Using WordNetLemmatize to improve the performance of userinput to match the trained model's question more precisely. Tfidvecrorizer  is to classify the question. Also, using cosine_similarity to set the similarity to 70%. Too high will cause the input has to be the same as trained dataset. Too low will cause the accuracy of the replied answer. 
 
-
-
+![algor](https://user-images.githubusercontent.com/43220166/55992112-a4064180-5c60-11e9-9471-34e33caf305c.PNG)
 
 
 ### How to use this program:

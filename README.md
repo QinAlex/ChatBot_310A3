@@ -35,6 +35,10 @@ Generate 5 random answer for the question that is outside the scope.
 
 ![GUI 5randomAnswer](https://user-images.githubusercontent.com/43220166/55991594-74a30500-5c5f-11e9-876f-083d7553c2c3.PNG)
 
+Using WordNetLemmatize to improve the performance of userinput to match the trained model's question more precisely. Tfidvecrorizer  is to classify the question. Also, using cosine_similarity to set the similarity to 70%. Too high will cause the input has to be the same as trained dataset. Too low will cause the accuracy of the replied answer. 
+
+
+
 
 
 ### How to use this program:

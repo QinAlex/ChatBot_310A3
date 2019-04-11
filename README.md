@@ -23,6 +23,7 @@ Implemented a GUI to make it looks good and can talk with human smoothly with at
 ![30_output with new topic](https://user-images.githubusercontent.com/43220166/55991117-54bf1180-5c5e-11e9-8d06-913b427e40fc.PNG)
 
 Add two new topics: cook and books
+
 ![30_output_rest](https://user-images.githubusercontent.com/43220166/55991287-c008e380-5c5e-11e9-8f56-e879fc4b838c.PNG)
 
 

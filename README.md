@@ -18,6 +18,28 @@ The following steps decribe the logic of this program:
 
 The training corpus used in our project comes from this [Repo](https://github.com/gunthercox/chatterbot-corpus)
 
+### A3 features:
+Implemented a GUI to make it looks good and can talk with human smoothly with at least 30 turns.
+
+![30_output with new topic](https://user-images.githubusercontent.com/43220166/55991117-54bf1180-5c5e-11e9-8d06-913b427e40fc.PNG)
+
+Add two new topics: cook and books
+
+![30_output_rest](https://user-images.githubusercontent.com/43220166/55991287-c008e380-5c5e-11e9-8f56-e879fc4b838c.PNG)
+
+Handling the miss-spelling or spell the wrong words by using traind model.
+
+![handlemistakes](https://user-images.githubusercontent.com/43220166/55991396-09593300-5c5f-11e9-8c43-9946f85e6ab8.PNG)
+
+Generate 5 random answer for the question that is outside the scope.
+
+![GUI 5randomAnswer](https://user-images.githubusercontent.com/43220166/55991594-74a30500-5c5f-11e9-876f-083d7553c2c3.PNG)
+
+Using WordNetLemmatize to improve the performance of userinput to match the trained model's question more precisely. Tfidvecrorizer  is to classify the question. Also, using cosine_similarity to set the similarity to 70%. Too high will cause the input has to be the same as trained dataset. Too low will cause the accuracy of the replied answer. 
+
+![algor](https://user-images.githubusercontent.com/43220166/55992112-a4064180-5c60-11e9-9471-34e33caf305c.PNG)
+
+
 ### How to use this program:
 * Using python eniroment
 * Make sure training corpus and the program are in the same folder

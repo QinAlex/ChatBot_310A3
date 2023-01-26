@@ -5,12 +5,6 @@ Created on Wed Apr 10 20:27:11 2019
 @author: ALex_Qin
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 30 14:03:35 2019
-
-@author: whq672437089
-"""
 import random
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
